@@ -6,6 +6,11 @@ Banana ChAIser is an object-detective-driven car project developed as part of Ha
 
 The main objective of Banana ChAIser is to showcase the capabilities of Hailo's technology in the context of object detection and tracking. In this project, we simulate a real-life scenario where a vehicle chases a target object, specifically a banana 🍌. The banana acts as a simulated gun 🔫, and the car is programmed to identify and track the banana holder using the YOLOv5 network. This demonstration not only highlights the power of object detection but also demonstrates Hailo's hardware accelerators in delivering fast and efficient inference for real-time applications.
 
+## Robot Diagram 🤖
+
+![Robot Diagram](images/diagram.png)
+![Robot](images/robot.png)
+
 ## Technologies Used 🛠️
 
 - **YOLOv5**: The project utilizes the YOLOv5 object detection model, renowned for its accuracy and efficiency in real-time detection tasks.
